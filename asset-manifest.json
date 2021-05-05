@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vizgard/static/css/main.d562b7f3.chunk.css",
-    "main.js": "/vizgard/static/js/main.8cafc980.chunk.js",
-    "main.js.map": "/vizgard/static/js/main.8cafc980.chunk.js.map",
+    "main.js": "/vizgard/static/js/main.d454d281.chunk.js",
+    "main.js.map": "/vizgard/static/js/main.d454d281.chunk.js.map",
     "runtime-main.js": "/vizgard/static/js/runtime-main.e567da4d.js",
     "runtime-main.js.map": "/vizgard/static/js/runtime-main.e567da4d.js.map",
     "static/css/2.23154d62.chunk.css": "/vizgard/static/css/2.23154d62.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.23154d62.chunk.css",
     "static/js/2.1dcf3299.chunk.js",
     "static/css/main.d562b7f3.chunk.css",
-    "static/js/main.8cafc980.chunk.js"
+    "static/js/main.d454d281.chunk.js"
   ]
 }
